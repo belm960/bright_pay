@@ -1,4 +1,4 @@
-# newapp
+# Bright Pay
 
 A new Flutter project.
 
